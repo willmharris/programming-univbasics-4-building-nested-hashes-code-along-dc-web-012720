@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  epic_tragedy[:montague][:patriarch][:name] = "Michael Jordan"
+  epic_tragedy[:montague][:patriarch][:name] = "dead"
   puts epic_tragedy
 
   
